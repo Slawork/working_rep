@@ -21,4 +21,5 @@ def numbers(lst: list):
 
     return ans
 print(numbers(a))
+print(numbers(b))
 
